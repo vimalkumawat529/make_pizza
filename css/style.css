@@ -1,0 +1,127 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: 'Signika Negative', sans-serif;
+    overflow-x: hidden;
+}
+
+#my-navigation{
+    background: none;
+}
+
+#my-navigation a{
+    color:#ffa400;
+    font-weight: 500;
+    font-size: 3rem;
+    font-family: 'Redressed', cursive;
+}
+
+#mynavbar a{
+    background: none;
+    color:#ffa400;
+    font-weight: 500;
+    font-size:1.5rem;
+}
+
+#my-navigation a:hover{
+    color: rgb(63, 60, 60);
+}
+
+/*------------ header start---*/
+
+.banner-sec{
+    font-family: 'Redressed', cursive;
+}
+
+.banner-sec p{
+   margin-bottom:20rem;
+}
+
+.banner-sec h1{
+    color:#ffa400;
+    font-size: 6rem;
+}
+
+.banner-sec h2{
+    color:#fff;
+}
+
+.banner-sec p{
+  font-size:1.7rem;
+}
+
+/*------- pizza-shop-sec start-------------*/
+.pizza-shop-sec{
+    margin-top:6em;
+}
+
+.pizza-shop-sec .heading-tab{
+    color:#ffa400;
+    font-family: 'Redressed', cursive;
+}
+
+.pizza-shop-sec p{
+    font-size: 1.6rem;
+}
+
+
+.pizza-shop-sec span{
+    color: rgb(89, 89, 230);
+}
+
+.pizza-shop-sec img{
+    width:100%;
+    border:10px solid rgb(209, 200, 200);
+}
+
+/* pizza-shop-sec --------- finished*/
+
+/*-gallery-sec----- start*/
+
+.gallery-sec h1{
+    text-align: center;
+    margin-top:1.5em;
+    text-decoration: underline;
+    color:#ffa400;
+    font-family: 'Redressed', cursive;
+}
+.gallery-sec .gallery-img img{
+    width: 100%;
+    margin-top: 2rem;
+}
+.gallery-sec .img-text .ttl{
+    margin-left:2rem;
+    color:#ffa400;
+}
+
+.gallery-sec .img-text .sub-ttl p{
+    margin-left:2rem;
+}
+
+
+
+
+/*--gallery-sec finished---------*/
+
+
+
+/* contact-us-sec */
+.contact-us-sec .heading-tab .heading{
+    color:#ffa400;
+}
+/* //. contact-us-sec */
+
+/* footer-sec */
+.footer-sec .heading-tab .heading{
+    color:#ffa400;
+}
+
+.footer-sec a{
+    color:#000;
+}
+/* //. footer-sec */

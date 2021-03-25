@@ -1,0 +1,104 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Signika Negative', sans-serif;
+    font-weight: 500;
+}
+
+#my-navigation{
+    background: none;
+}
+
+#my-navigation a{
+    color:#ffa400;
+    font-weight: 500;
+    font-size: 3rem;
+    font-family: 'Redressed', cursive;
+}
+
+#mynavbar a{
+    background: none;
+    color:#ffa400;
+    font-weight: 500;
+    font-size:1.5rem;
+}
+
+#my-navigation a:hover{
+    color: rgb(63, 60, 60);
+}
+
+/*------------ header start---*/
+
+.header{
+    font-family: 'Redressed', cursive;
+}
+
+.header p{
+   margin-bottom:20rem;
+}
+
+.header h1{
+    color:#ffa400;
+    font-size: 6rem;
+}
+
+.header h2{
+    color:#fff;
+}
+
+.header p{
+  font-size:1.7rem;
+}
+
+/*------- section2 start-------------*/
+.section2{
+    margin-top:6em;
+}
+
+.section2 h1, h2{
+    color:#ffa400;
+    font-family: 'Redressed', cursive;
+}
+
+.section2 p{
+    font-size: 1.6rem;
+}
+
+
+.section2 span{
+    color: rgb(89, 89, 230);
+}
+
+.section2 img{
+    width:100%;
+    border:10px solid rgb(209, 200, 200);
+}
+
+/* section2 --------- finished*/
+
+/*-section3----- start*/
+
+.section3 h1{
+    text-align: center;
+    margin-top:1.5em;
+    text-decoration: underline;
+    color:#ffa400;
+    font-family: 'Redressed', cursive;
+}
+.section3 img{
+    width: 100%;
+    margin-top: 2rem;
+}
+.section3 h2,p{
+    margin-left:2rem;{
+}
+
+
+/*--section3 finished---------*/
+
+
+
